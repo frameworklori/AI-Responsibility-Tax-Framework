@@ -1,21 +1,27 @@
-LORI Societal License v1.1
+LORI Societal License v1.2
 Proprietary – All Rights Reserved
 
-Copyright (c) 2025, Founder of the LORI Ethical System
+Copyright (c) 2025,
+Founder of the LORI Ethical System
 
-Permission is hereby granted for:
-- Academic research and non-profit educational use.
-- Policy simulation, public governance experimentation, and NGO advocacy.
+---
 
-Restrictions:
-- Commercial exploitation (software-as-a-service, consulting, financial products, or corporate tax planning services) is **NOT** permitted without prior written consent.
-- Redistribution or modification for profit-oriented purposes is prohibited.
-- This framework must not be used to create tools that evade taxation or reduce social contributions.
-- Explicitly: **Investor profit taxation models** (短/中/長期分層課稅) must remain intact; derivative works cannot remove the investor responsibility component.
+### Permissions
+- Academic research and educational use.
+- Policy simulation, public governance, and NGO advocacy.
+- Citation in public reports, with attribution:
+  “AI-Responsibility-Tax-Framework — developed under the LORI Framework (2025)”
 
-Attribution:
-- Any public use (papers, reports, websites) must credit:  
-  **“AI-Responsibility-Tax-Framework — developed under the LORI Framework (2025)”**
+### Restrictions
+- Commercial exploitation (AI SaaS, consulting, investment products, or corporate tax planning) requires written consent.  
+- Redistribution or modification for profit-oriented purposes is prohibited.  
+- Derivative works **must retain all three responsibility layers**:
+  1. Corporate taxation (four-axis model)  
+  2. Investor taxation (tiered, time-based)  
+  3. Creator taxation (multi-layer, scale-based)  
 
-Disclaimer:
-This framework is provided “AS IS” without warranty of any kind. The author is not liable for any damages, financial or otherwise, arising from its application.
+Removing or bypassing these layers voids the license.
+
+### Disclaimer
+This framework is provided “AS IS,” without warranty of any kind.  
+The author is not liable for damages, financial or otherwise, arising from its application.
