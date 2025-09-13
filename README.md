@@ -1,59 +1,40 @@
-# AI-Responsibility-Tax-Framework
+# AI-Responsibility-Tax
 
-## Overview
-The **AI Responsibility Tax Framework** is a policy & simulation blueprint for redistributing AI-generated profits — across **companies, investors, and creators** — to ease government debt and reduce inequality.  
-It proposes a multi-layer taxation system combined with social reinvestment mechanisms.
+## Description
+AI-Responsibility-Tax is a prototype module designed to impose a responsibility levy on AI companies, investors, and creators.
+The core principle is: **“If you develop fast, you must assume responsibility at the same speed.”**
+This module provides a mathematical taxation formula that translates AI profits, labor market disruption, and energy consumption into a **Social Responsibility Tax**.
 
-## Key Features
+---
 
-### 1. Four-Axis Corporate Tax Model
-- **Profit** (累進課稅，依利潤規模)
-- **Active Users** (用戶規模影響課稅)
-- **Energy & Carbon** (能耗/碳排課稅)
-- **Social Giveback** (教育、再培訓、綠能投資可減免)
+## Formula
+\[
+Responsibility\ Tax = \alpha \times Profit + \beta \times Unemployment\ Impact + \gamma \times Energy\ Consumption
+\]
 
-### 2. Tiered Investor Taxation
-- **Short-term (1–3 years):** Highest rate, discourages speculation.
-- **Medium-term (3–7 years):** Moderate rate, supports normal VC cycles.
-- **Long-term (7+ years):** Lowest rate, rewards patient capital and social investment.
-- **Excess Returns Rule:** 超額利潤部分須附加稅。
+- **Profit**: Annual net profit generated from AI technologies.
+- **Unemployment Impact**: The proportion of jobs displaced by AI, converted into compensation value.
+- **Energy Consumption**: Electricity usage / carbon emissions from AI computation, converted into environmental compensation.
 
-### 3. Multi-Layer AI Creator Taxation
-- **Layer 1 – Primary AI Creators**  
-  Direct use of AI to generate works (art, text, code, music).  
-  → 課稅依據：獲利金額（累進）。  
-  → 減免：教育、公益、國家專案。
+---
 
-- **Layer 2 – Application Layer Creators**  
-  Repackaging AI outputs into applications (apps, games, SaaS).  
-  → 課稅依據：用戶規模、營收規模。  
-  → 減免：開源回饋、再培訓投資。
+## Allocation
+Redistribution of the Responsibility Tax:
+- **40%** → Re-skilling and Employment Transition Fund
+- **30%** → UBI-lite (Universal Basic Income dividend)
+- **30%** → Green Energy & Infrastructure Investment
 
-- **Layer 3 – Derivative Layer Operators**  
-  Expanding AI-based applications into global platforms (film, NFTs, commerce).  
-  → 課稅依據：全球營收、覆蓋範圍。  
-  → 減免：綠能投資、社會基金貢獻。
+---
 
-### 4. AI Social Dividend Fund
-- 40% → Retraining & Upskilling  
-- 30% → Universal Basic Income Lite (全民紅利)  
-- 30% → Green Infrastructure & Public Services  
+## Purpose
+- Establish a **balance between rapid AI growth and social responsibility**
+- Ensure AI wealth is not monopolized by a minority but returned to society
+- Provide policymakers with a **quantitative, transparent, and auditable** taxation framework
 
-## Goals
-- **Reduce public debt** by creating sustainable AI-linked revenue streams.  
-- **Redistribute AI profits** fairly across society.  
-- **Encourage reinvestment** by companies, investors, and creators.  
-
-## Contents
-- `models/` → Tax formulas and policy models  
-- `datasets/` → Example industry & user data  
-- `simulations/` → Scripts to test taxation impacts  
-- `docs/` → Governance templates & policy briefs  
+---
 
 ## Status
-🚧 Work in progress — contributions of policy proposals, datasets, or simulation tools are welcome.
+- Version: **v0.1 – Prototype**
+- Framework: Part of the **LORI Framework – Social Responsibility Modules**
+- Author: *Founder of the LORI Ethical System*
 
-## License
-Licensed under the **LORI Societal License v1.2 (Proprietary)**.  
-Non-commercial use allowed for research, education, and policy testing.  
-Commercial or for-profit use requires explicit written permission.
