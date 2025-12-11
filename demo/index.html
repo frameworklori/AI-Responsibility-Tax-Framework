@@ -1,1 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AI Responsibility Tax Demo</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
 
+<body>
+
+<div class="container">
+    <h1>AI-Responsibility-Tax Calculator</h1>
+    <p class="subtitle">Part of the LORI Ethical System — Public Demo Prototype</p>
+
+    <div class="input-area">
+        <h2>Input Parameters</h2>
+
+        <label>Profit (P):</label>
+        <input type="number" id="profit" placeholder="e.g., 500000000">
+
+        <label>Unemployment Impact (U):</label>
+        <input type="number" id="unemployment" placeholder="e.g., 20000000">
+
+        <label>Energy Consumption (E):</label>
+        <input type="number" id="energy" placeholder="e.g., 30000000">
+
+        <label>α (alpha):</label>
+        <input type="number" id="alpha" value="0.02" step="0.001">
+
+        <label>β (beta):</label>
+        <input type="number" id="beta" value="0.5" step="0.01">
+
+        <label>γ (gamma):</label>
+        <input type="number" id="gamma" value="0.1" step="0.01">
+
+        <button onclick="calculateRT()">Calculate</button>
+    </div>
+
+
+    <div class="output-area">
+        <h2>Results</h2>
+        <p>Total Responsibility Tax (RT): <span id="rtValue">—</span></p>
+
+        <h3>Redistribution Breakdown</h3>
+        <ul>
+            <li>40% → Workforce Transition Fund: <span id="wfValue">—</span></li>
+            <li>30% → UBI-lite: <span id="ubiValue">—</span></li>
+            <li>30% → Green Infrastructure Fund: <span id="greenValue">—</span></li>
+        </ul>
+    </div>
+
+
+    <div class="chart-area">
+        <canvas id="taxChart"></canvas>
+        <button id="downloadChartBtn">Download Chart PNG</button>
+    </div>
+</div>
+
+<script src="main.js"></script>
+
+</body>
+</html>
