@@ -1,1 +1,5 @@
-
+Country,Scenario,Profit (P),Unemployment Impact (U),Energy Consumption (E),Alpha,Beta,Gamma,Description
+Asia,Mixed economy,300000000,15000000,18000000,0.015,0.45,0.12,"Characteristics: includes high AI compute countries (e.g., Singapore, Japan, South Korea); also many low-wage, high-risk countries (Southeast Asia); β(..."
+Asia,High compute countries,650000000,38000000,50000000,0.02,0.55,0.18,"Characteristics: includes high AI compute countries (e.g., Singapore, Japan, South Korea); also many low-wage, high-risk countries (Southeast Asia); β(..."
+Asia,Manufacturing automation boom,420000000,45000000,28000000,0.017,0.60,0.14,"Characteristics: includes high AI compute countries (e.g., Singapore, Japan, South Korea); also many low-wage, high-risk countries (Southeast Asia)..."
+Asia,Service sector adoption of AI,250000000,12000000,15000000,0.013,0.42,0.10,"Characteristics: includes high AI compute countries (e.g., Singapore, Japan, South Korea); also many low-wage, high-risk countries (Southeast Asia); ..."
