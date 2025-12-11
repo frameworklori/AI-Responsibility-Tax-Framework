@@ -1,1 +1,31 @@
-
+{
+    "example_cases": [
+        {
+            "country": "United States",
+            "profit": 850000000,
+            "unemploymentImpact": 42000000,
+            "energyConsumption": 37000000,
+            "alpha": 0.02,
+            "beta": 0.55,
+            "gamma": 0.1
+        },
+        {
+            "country": "Japan",
+            "profit": 300000000,
+            "unemploymentImpact": 12000000,
+            "energyConsumption": 9000000,
+            "alpha": 0.015,
+            "beta": 0.45,
+            "gamma": 0.12
+        },
+        {
+            "country": "EU",
+            "profit": 650000000,
+            "unemploymentImpact": 30000000,
+            "energyConsumption": 42000000,
+            "alpha": 0.03,
+            "beta": 0.6,
+            "gamma": 0.15
+        }
+    ]
+}
