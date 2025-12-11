@@ -5,14 +5,6 @@ United States,Frontier-Model-Explosion,1500000000,65000000,82000000,0.035,0.70,0
 United States,Automation-Surge,780000000,52000000,45000000,0.02,0.65,0.10
 
 ```markdown
-# US Scenario A — High AI
-
-說明：
-- 此檔案為與 `US_Scenario_A_highAI.csv` 對應的文字說明與圖示。
-- CSV 檔保留為純表格，供程式/檢視器解析；本檔提供背景說明、特性與示意圖。
-
-示意圖：
-![上圖](path/to/TOP.png)
 
 特性：
 - 高利潤 P
@@ -20,9 +12,6 @@ United States,Automation-Surge,780000000,52000000,45000000,0.02,0.65,0.10
 - 高能耗 E（frontier models）
 - β（勞動保護）提高
 - γ（能耗）強調
-
-版本：
-- 修訂 2025-12-11：新增說明檔；已移除 CSV 中的非表格內容以修復檢視問題。
-
+```
 
 
