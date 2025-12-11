@@ -3,19 +3,3 @@ United States,High-AI-Acceleration,920000000,48000000,52000000,0.025,0.60,0.12
 United States,High-AI-Maturity,1100000000,35000000,60000000,0.03,0.50,0.12
 United States,Frontier-Model-Explosion,1500000000,65000000,82000000,0.035,0.70,0.15
 United States,Automation-Surge,780000000,52000000,45000000,0.02,0.65,0.10
-
------
-
-''''markdown
-![上圖](path/to/TOP.png)
-
-特性：  
-- 高利潤 P  
-- 高失業衝擊 U（因快速 automation）  
-- 高能耗 E（frontier models）  
-- β（勞動保護）提高  
-- γ（能耗）強調
-''''
-
-
-
