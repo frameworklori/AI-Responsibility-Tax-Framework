@@ -1,1 +1,5 @@
-
+Country,Scenario,Profit(P),UnemploymentImpact(U),EnergyConsumption(E),Alpha,Beta,Gamma
+Asia,Mixed-Economy,300000000,15000000,18000000,0.015,0.45,0.12
+Asia,High-Compute-Nation,650000000,38000000,50000000,0.02,0.55,0.18
+Asia,Manufacturing-Automation-Burst,420000000,45000000,28000000,0.017,0.60,0.14
+Asia,Service-Sector-AI-Adoption,250000000,12000000,15000000,0.013,0.42,0.10
