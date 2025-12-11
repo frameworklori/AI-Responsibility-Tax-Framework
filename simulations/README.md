@@ -14,6 +14,8 @@ These inputs allow AIRTF to compute Responsibility Tax (RT), redistribution outc
 ---
 
 # 📁 Folder Structure
+
+'''markdown
 simulations/
 │
 ├── country-scenarios/
