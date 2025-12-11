@@ -1,1 +1,69 @@
+# ============================
+# AI-Responsibility-Tax-Framework
+# LORI Ethical System – .gitignore
+# ============================
 
+# macOS 系統檔
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows 系統檔
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Node / 前端工具暫存（若之後加入前端工具仍有效）
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python 模擬腳本暫存（simulations/scripts）
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 編輯器設定檔（依需求可調整）
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build / 輸出
+dist/
+build/
+*.log
+
+# 圖片原始編輯檔（若公開只放 SVG/PNG）
+*.psd
+*.ai
+*.xcf
+
+# 私密資料（建議留空資料夾）
+secret/
+private/
+notes/private/
+*.key
+*.pem
+
+# 不公開的大型資料（避免誤上傳）
+*.csv
+*.xlsx
+*.zip
+*.tar.gz
+
+# 瀏覽器快取
+.cache/
+
+# 產生式報告 / 匯出（PDF 可選擇是否上傳）
+*.pdf
+
+# 本地測試備份
+*.bak
+*.tmp
+
+# 文字編輯器自動備份檔
+*~
+*.tmp
+*.temp
