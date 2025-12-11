@@ -28,7 +28,12 @@ CT = \lambda \times \text{FLOPs} + \delta \times \text{EnergyCost}
 ### 目的:
 - 防止算力壟斷  
 - 將環境成本內部化  
-- 承認算力為現代公共資源  
+- 承認算力為現代公共資源
+
+FLOPs:訓練成本、
+      推理成本、
+      計算密度、
+      模型規模。
 
 ---
 
