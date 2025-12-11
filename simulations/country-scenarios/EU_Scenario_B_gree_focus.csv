@@ -1,1 +1,5 @@
-
+Country,Scenario,Profit(P),UnemploymentImpact(U),EnergyConsumption(E),Alpha,Beta,Gamma
+EU,Green-AI-Transition,480000000,22000000,30000000,0.02,0.50,0.20
+EU,Low-Carbon-Compute,520000000,18000000,25000000,0.018,0.45,0.25
+EU,Strict-Sustainability-Model,600000000,26000000,35000000,0.022,0.55,0.30
+EU,AI-Moderate-Growth,420000000,20000000,28000000,0.017,0.48,0.22
