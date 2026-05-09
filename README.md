@@ -1,129 +1,137 @@
-# AI-Era Economic Sovereignty Framework
+# AI-Responsibility-Tax-Framework
 
-## AI-Responsibility-Tax Framework v2.1
+AIRTF is an AI-era economic sovereignty and civilization liquidity framework.
 
+It studies how AI-driven productivity may concentrate ownership, weaken broad purchasing power, and destabilize consumer economies if productivity gains fail to circulate through the middle and working classes.
+
+The framework argues that the central AI-era risk is not only job displacement, but the separation of:
+
+- productivity
+- ownership
+- purchasing power
+- circulation
+
+AIRTF develops indicators, fiscal tools, governance models, and transition scenarios to prevent AI-driven infrastructure concentration from weakening the mass-consumption base of modern economies.
+
+**Author:** Founder of the LORI Ethical System  
 **Original Creator:** Lori-framework (beautysungirl@gmail.com)  
 **Repository Creation Date:** 12 September 2025  
 **Last Known Push Timestamp:** 2025-12-20T10:30:56Z  
-**Rebuild Direction:** AI-Era Economic Sovereignty & Infrastructure Governance Framework
+**Status:** Final Repo Reconstruction / Content Completion
 
 ## Core Thesis
 
-AI does not independently produce civilization-scale value.
+AI does not automatically destroy the economy.
 
-Real value emerges from:
-
-- AI + industry
-- AI + compute
-- AI + capital
-- AI + energy
-- AI + distribution platforms
-- AI + startup acquisition
-- AI + resource integration
-
-Large AI companies increasingly act as resource integration and absorption engines. They absorb talent, ideas, startups, APIs, compute access, user distribution, and infrastructure dependency.
-
-This may create a new form of market concentration:
+The true danger is:
 
 ```text
-Integration-Layer Monopoly
+productivity gains may concentrate faster than purchasing power can circulate
 ```
 
-or:
+Modern consumer economies survive not only because goods are produced. They survive because money keeps circulating among broad consumer groups.
+
+The broad middle class, lower-middle class, and working class are the real consumption engine because they spend most of their income back into the economy. The ultra-wealthy do not scale consumption proportionally with wealth accumulation.
+
+Therefore, wealth concentration is not only a fairness problem. It is a circulation problem.
+
+## Central Transition Risk
 
 ```text
-Compute Feudalism
+AI productivity rises
+-> AI infrastructure ownership concentrates
+-> capital owners capture productivity gains
+-> white-collar labor income compresses
+-> middle-class purchasing power weakens
+-> money velocity slows
+-> demand fragility increases
+-> social and political instability rises
 ```
 
-where most people and companies do not own AI productivity infrastructure, but only rent access from a few dominant infrastructure owners.
-
-## Final Repositioning
-
-This repository should no longer be described only as an AI Responsibility Tax Framework.
-
-It is now:
+This is named:
 
 ```text
-AI-Era Economic Sovereignty Framework
+Civilization Liquidity Risk
 ```
 
-A framework for regulating AI-era value extraction, preventing infrastructure monopolies, redistributing automation gains, and preserving social stability during the transition into a post-labor economy.
+The danger is a paradox where productivity, GDP, stock markets, and AI capability rise while broad purchasing power weakens, middle-class consumption slows, credit dependence increases, demand becomes fragile, and infrastructure ownership concentrates.
 
-## Core Principle
+## Real Consumer Engine
 
-> If AI accelerates, responsibility must accelerate equally.
+Large consumer economies are not primarily sustained by billionaire consumption. They are sustained by:
 
-AI growth should not create a society where productivity rises but social cohesion collapses.
+- broad labor income
+- middle-class consumption
+- lower-middle-class spending
+- household credit capacity
+- housing demand
+- retail spending
+- service-sector consumption
+- transportation
+- food
+- education
+- entertainment
+- healthcare
 
-## Repository Structure
+A dollar paid to a working or middle-class household is likely to circulate quickly. A dollar concentrated at the top is more likely to move into financial assets, equity accumulation, offshore structures, infrastructure ownership, political influence, or long-term capital storage.
+
+## Key Framework Areas
+
+- AI five-layer stack and cross-layer control
+- infrastructure capitalism and digital chokepoints
+- compute feudalism and integration-layer monopoly
+- marginal propensity to consume and money velocity
+- U.S. white-collar compression as a global circulation leading indicator
+- Japan as a circulation fragility warning
+- credit-extended consumption and borrowed future demand
+- falsifiability indicators with provisional thresholds
+- AI trilemma between frontier speed, distributed ownership, and public leadership
+- open source as useful but insufficient anti-feudal infrastructure
+- human strategic value under execution compression
+
+## Final Documentation Structure
 
 ```text
 docs/
   core/
     AIRTF_Overview.md
-    Core_Principles.md
-    Theory_of_Change.md
-  economic-stack/
+    Core_Thesis.md
+    Civilization_Liquidity_Risk.md
+    AI_Era_Scarcity_Model.md
+  economic_stack/
     AI_Five_Layer_Stack.md
-    AI_Layered_Value_Extraction_Model.md
-    Integration_Layer_Monopoly.md
+    Infrastructure_Capitalism.md
+    Digital_Chokepoint_Economics.md
     Compute_Feudalism.md
-  taxation/
+    Integration_Layer_Monopoly.md
+  demand_side/
+    MPC_and_Money_Velocity.md
+    Demand_Fragility_Model.md
+    Credit_Extended_Consumption.md
+    US_White_Collar_Compression.md
+    Japan_Circulation_Fragility.md
+    Scenario_Model_A_B_C.md
+  governance/
+    Theory_of_Change.md
+    Actor_Incentive_Map.md
+    AI_Trilemma.md
+    Public_AI_Infrastructure.md
+    Open_Source_Anti_Feudalism_Limits.md
+    Regulatory_Capture_Risk.md
+  indicators/
+    Falsifiability_Layer.md
+    Compute_Concentration_Index.md
+    Labor_Share_Stress_Index.md
+    White_Collar_Scarring_Index.md
+    Money_Velocity_Warning_System.md
+    Platform_Rent_Ratio.md
+  policy/
     Responsibility_Tax_Model.md
     Compute_Concentration_Levy.md
-    Automation_Tax.md
     Sovereign_AI_Equity.md
-    AI_Infrastructure_Royalties.md
-  governance/
-    Structural_Separation_Model.md
-    Platform_Interoperability.md
-    Acquisition_Velocity_Monitoring.md
-    Public_AI_Infrastructure.md
-    Open_Source_Anti_Feudalism.md
-  transition/
     Labor_Transition_Infrastructure.md
-    Automation_Shock_Velocity.md
-    AI_Social_Stability_Index.md
-    Demand_Sustainability_Layer.md
-  simulation/
-    Country_Model_Template.md
-    Taiwan_Case_Study.md
-    Fiscal_Redistribution_Model.md
-    Compute_Dependency_Matrix.md
-  policy/
-    Implementation_Pathways.md
-    Multilateral_Coordination.md
-    Regulatory_Capture_Risks.md
-    State_Capacity_Assessment.md
+    Public_Procurement_Strategy.md
 ```
-
-## Key Models
-
-### Responsibility Tax
-
-```text
-RT = alpha * Profit
-   + beta * UnemploymentImpact
-   + gamma * EnergyConsumption
-```
-
-Unemployment impact is difficult to attribute directly, so this framework adds an AI-Linked Displacement Score based on AI adoption, workforce compression, revenue per employee growth, human-to-AI replacement ratio, AI-generated output ratio, and department-level automation evidence.
-
-### Compute Concentration Index
-
-```text
-CCI = Top5ComputeProviders / TotalNationalComputeCapacity
-```
-
-CCI supports compute concentration levies, public compute reserves, open-source AI infrastructure, and anti-feudal compute policy.
-
-### Automation Shock Velocity
-
-```text
-ASV = WorkersDisplaced / TimeWindow
-```
-
-Fast labor displacement can create larger social instability than slower transitions with the same total displacement.
 
 ## Prototype Modules
 
@@ -137,6 +145,8 @@ src/
   social_stability.py
   displacement_score.py
   integration_monopoly.py
+  civilization_liquidity.py
+  indicator_thresholds.py
 ```
 
 Run tests:
@@ -145,11 +155,15 @@ Run tests:
 python -m unittest discover -s tests
 ```
 
-## Boundary
+## Final Core Principles
 
-AIRTF is a research and policy architecture prototype. It is not a final tax code, investment recommendation, or legal instrument.
+> If AI accelerates, responsibility must accelerate equally.
 
-Its purpose is to help societies reason about how AI-era value is extracted, who controls infrastructure, how automation gains are redistributed, and how public alternatives can be built before private dependency becomes irreversible.
+> If productivity accelerates but purchasing power does not circulate, civilization stability weakens.
+
+The goal is not to stop AI.
+
+The goal is to prevent circulation collapse, white-collar compression shock, infrastructure feudalism, demand fragility, irreversible platform dependency, middle-class erosion, and political capture by concentrated AI infrastructure owners.
 
 ## License
 

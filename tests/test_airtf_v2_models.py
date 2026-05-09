@@ -1,7 +1,13 @@
 import unittest
 
 from src.compute_sovereignty import compute_concentration_index, cci_risk_level
+from src.civilization_liquidity import circulation_risk_score, mpc_weighted_circulation
 from src.displacement_score import ai_linked_displacement_score
+from src.indicator_thresholds import (
+    compute_concentration_status,
+    demand_fragility_status,
+    platform_rent_status,
+)
 from src.integration_monopoly import (
     integration_layer_monopoly_score,
     monopoly_risk_level,
@@ -85,6 +91,40 @@ class AIRTFV2ModelTests(unittest.TestCase):
             compute_dependency=0.9,
         )
         self.assertEqual(monopoly_risk_level(score), "critical_integration_monopoly_risk")
+
+    def test_civilization_liquidity_risk(self):
+        score = circulation_risk_score(
+            productivity_growth=0.08,
+            median_income_growth=0.01,
+            money_velocity_change=-0.05,
+            household_debt_growth=0.7,
+            wealth_concentration_growth=0.8,
+        )
+        self.assertGreater(score, 0.3)
+
+    def test_mpc_weighted_circulation(self):
+        broad = mpc_weighted_circulation(
+            low_income_share=0.3,
+            middle_income_share=0.5,
+            high_income_share=0.2,
+        )
+        concentrated = mpc_weighted_circulation(
+            low_income_share=0.1,
+            middle_income_share=0.2,
+            high_income_share=0.7,
+        )
+        self.assertGreater(broad, concentrated)
+
+    def test_indicator_thresholds(self):
+        self.assertEqual(compute_concentration_status(0.7), "warning")
+        self.assertEqual(
+            demand_fragility_status(
+                productivity_growth_years_above_income=4,
+                median_real_power_declining=False,
+            ),
+            "warning",
+        )
+        self.assertEqual(platform_rent_status(0.08, 0.03, 0.05), "crisis")
 
 
 if __name__ == "__main__":
