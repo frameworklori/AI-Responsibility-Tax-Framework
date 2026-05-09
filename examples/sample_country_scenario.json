@@ -1,0 +1,18 @@
+{
+  "country": "Demo Republic",
+  "profit": 1000000000,
+  "unemployment_impact": 250000000,
+  "energy_consumption": 120000000,
+  "top5_compute_capacity": 780,
+  "total_national_compute_capacity": 1000,
+  "workers_displaced": 120000,
+  "time_window_months": 12,
+  "stability_inputs": {
+    "youth_unemployment": 0.22,
+    "middle_class_erosion": 0.48,
+    "ai_anxiety": 0.64,
+    "wage_stagnation": 0.55,
+    "compute_concentration": 0.78,
+    "housing_stress": 0.5
+  }
+}

@@ -1,202 +1,251 @@
-# AI-Responsibility-Tax Framework  
-### New Fiscal Architecture for the AI Era  
-**Version: v1.0 — Prototype**  
-**Author: Founder of the LORI Ethical System**
+# AI-Responsibility-Tax Framework
 
----
+## Rebuild Direction: Post-Labor Fiscal Architecture for the AI Era
 
-## Overview
+**Version:** v2.0 Draft Reconstruction  
+**Author:** Founder of the LORI Ethical System  
+**Original Creator:** Lori-framework (beautysungirl@gmail.com)  
+**Repository Creation Date:** 12 September 2025  
+**Last Known Push Timestamp:** 2025-12-20T10:30:56Z
 
-The **AI-Responsibility-Tax Framework (AIRTF)** is a next-generation fiscal architecture designed to realign national tax systems with the economic realities of the AI era.
+## Core Repositioning
 
-核心原則：
+This repository should no longer be positioned only as an "AI Tax Proposal."
 
-> **“If AI accelerates, responsibility must accelerate equally.”**  
-> **「AI 發展越快，其責任承擔就必須等速提升。」**
+The framework has evolved into:
 
-This framework introduces:
+```text
+AI-Era Economic Sovereignty Architecture
+```
 
-1. A **three-layer responsibility taxation structure** (Creators, Investors, AI Companies)  
-2. A **mathematical responsibility formula**  
-3. A **five-pillar fiscal system** for AI-era revenue  
-4. A **national redistribution model** for equitable, sustainable growth  
+and:
 
-AIRTF is part of the LORI Framework’s **Social Responsibility Governance Line**.
+```text
+Post-Labor Fiscal Architecture
+```
 
----
+The central issue is no longer only AI ethics or AI regulation.
 
-# 1. Three-Layer Responsibility Taxation Structure
+The real challenge is:
 
-### **Layer 1 — Creator Layer**
-Actors:
-- **Original Creators** — foundational AI model builders  
-- **Application-Level Creators** — developers using AI for secondary creation  
-- **Derivative Operators** — enterprises scaling AI across industries  
+> AI productivity is accelerating faster than social, fiscal, and labor systems can adapt.
 
-Tax Reductions (if contribution exists):
-- Education & public learning  
-- National projects  
-- Open-source contributions  
-- Green energy & climate technologies  
+This repository studies how nations may redesign taxation, redistribution, compute sovereignty, automation economics, public AI infrastructure, and social stability mechanisms for the AI era.
 
----
+## Core Civilizational Problem
 
-### **Layer 2 — Investor Layer**
-- **Tiered Capital Taxation**
-  - Short-term AI capital gains → **high tax**
-  - Medium-term → **medium tax**
-  - Long-term → **low tax**
-- **Excess Profit Surtax** for runaway capital concentration  
-- **Bubble-Buffer Tax** to reduce AI speculative volatility  
+AI is no longer simply replacing repetitive labor. AI is beginning to compress:
 
----
+- cognitive labor
+- white-collar professions
+- software production
+- legal analysis
+- design
+- administration
+- financial analysis
+- customer service
+- educational content generation
 
-### **Layer 3 — AI Company Layer**
-AI enterprises are taxed across **four axes**:
+At the same time:
 
-1. **Profit**  
-2. **User Scale**  
-3. **Unemployment Impact**  
-4. **Energy Consumption**  
+- middle-class stability weakens
+- labor bargaining power stagnates
+- capital efficiency accelerates
+- compute concentration intensifies
 
-Allocation focuses on:
-- Reskilling  
-- Public welfare  
-- Open-source R&D  
-- Green infrastructure  
+This creates a dangerous imbalance:
 
----
+| AI Productivity | Social Stability |
+|---|---|
+| Rapidly increasing | Potentially declining |
 
-# 2. Responsibility Tax Formula
+The issue is not merely inequality. The issue is the **velocity of inequality expansion**.
 
-\[
-RT = \alpha \times Profit + \beta \times UnemploymentImpact + \gamma \times EnergyConsumption
-\]
+## Six Research Pillars
 
-**Profit** — AI-generated net income  
-**Unemployment Impact** — monetized cost of displaced workers  
-**Energy Consumption** — carbon, electricity, compute cost  
-**α/β/γ** — policy levers for national priorities  
+### I. AI Responsibility Taxation Layer
 
----
+The original AIRTF structure remains.
 
-# 3. The Five-Pillar New Fiscal Architecture (AI 新財政邏輯)
+Core equation:
 
-Beyond Responsibility Tax, a sustainable AI-era fiscal system requires **five new revenue pillars**:
+```text
+RT = alpha * Profit
+   + beta * UnemploymentImpact
+   + gamma * EnergyConsumption
+```
 
----
+This converts AI externalities into measurable fiscal responsibility.
 
-## **① GPU × Compute Tax（AI 算力稅）**
-\[
-CT = \lambda \times FLOPs + \delta \times EnergyCost
-\]
+Objectives:
 
-課稅對象：
-- GPU/TPU compute clusters  
-- Frontier model training events  
-- 高耗能資料中心  
+- internalize AI social costs
+- stabilize automation transition
+- prevent hyper-concentration of wealth
 
-目的：
-- 防止算力壟斷  
-- 支付能源／碳排外部成本  
-- 建立「Compute-as-a-Public-Resource」模式  
+### II. AI Five-Layer Economic Stack
 
----
+AI should be analyzed as civilization-scale infrastructure:
 
-## **② Capital Tax 3.0（AI 資本重構稅）**
-Three-tier AI capital gains:
+1. **Energy Infrastructure**: power grids, cooling systems, nuclear/renewable energy, data center land and water systems.
+2. **Compute & Semiconductor Layer**: GPUs, TPUs, inference clusters, chip sovereignty, compute providers.
+3. **Foundation Model Layer**: frontier models, national models, open-source models, AI alignment systems.
+4. **Distribution & Platform Layer**: AI operating systems, search layers, AI browsers, agent ecosystems, cloud platforms.
+5. **Application & Agent Layer**: AI SaaS, agents, enterprise automation, local productivity systems.
 
-| 持有期間 | 稅率 | 政策效果 |
-|---------|------|------------|
-| Short-term | High | 抑制投機 |
-| Medium-term | Medium | 穩定投入 |
-| Long-term | Low | 鼓勵深度參與 |
+### III. AI Layered Value Extraction Model (ALVEM)
 
-附加：
-- Excess AI Profit Surtax  
-- Anti-Bubble Market Buffer  
+Different AI layers extract value differently.
 
----
+ALVEM evaluates:
 
-## **③ Robot Tax / Automation Tax（機器人稅）**
-取代人類勞動的自動化系統需承擔社會成本：
+- monopoly intensity
+- social externalities
+- infrastructure dependence
+- profit density
+- labor replacement scale
 
-- 每取代 1 人 → 自動化影響值  
-- 用於 reskilling、UBI-lite、職涯過渡基金  
+Example matrix:
 
----
+| Layer | Profit Density | Monopoly Risk | Social Impact |
+|---|---|---|---|
+| Energy | High | High | National |
+| Compute | Extreme | Extreme | Global |
+| Models | High | Medium | Global |
+| Platforms | Extreme | Extreme | Civilization-scale |
+| Applications | Variable | Low | Local |
 
-## **④ National AI Sovereign Share（國家級 AI 股權制度）**
-國家與人民不僅課稅，而是 **AI 經濟共同股東**。
+### IV. Compute Sovereignty Architecture
 
-包含：
-- 國家 AI 模型（National LLM）收益分成  
-- 國家算力池 (Sovereign Compute Pool)  
-- Frontier AI usage royalty  
+Modern AI economies increasingly depend on sovereign compute, energy independence, and national inference infrastructure.
 
-目的：
-- 讓 AI 財富回到全體人民  
-- 建立永續的國家級 AI 收益引擎  
+Future modules:
 
----
+- Sovereign Compute Reserve
+- National AI Cloud
+- Compute Concentration Index (CCI)
+- Compute Geopolitics Tracker
 
-## **⑤ Public AI Works（公共 AI 建設計畫）**
-AI 時代的公共建設包括：
+Example equation:
 
-- 全民 AI 素養教育  
-- 公共資料治理  
-- 公共 AI 模型  
-- 災害預警 AI（火災、洪水、地震）  
-- 中小企業 AI 化基礎建設  
+```text
+CCI = Top5ComputeProviders / TotalNationalComputeCapacity
+```
 
-Funding sources:
-- RT  
-- Compute Tax  
-- Robot Tax  
-- Sovereign AI Profits  
+Core idea:
 
----
+> Compute becomes a strategic public resource.
 
-# 4. Redistribution Pools
+### V. Post-Labor Fiscal Architecture
 
-Collected taxes flow into the **AI Social Dividend Fund**:
+The current global tax system is still labor-centric. AI shifts value creation toward compute, infrastructure, automation, and capital ownership.
 
-| Allocation | Purpose |
-|-----------|----------|
-| **40%** | Re-skilling & workforce transition |
-| **30%** | UBI-lite — Universal Basic Dividend |
-| **30%** | Green energy & public digital infrastructure |
+This creates a future mismatch:
 
----
+- GDP may rise
+- taxable human labor may shrink
 
-# 5. Expected Societal Impact
+New fiscal pillars:
 
-### Short-term
-- Smooth labor transition  
-- Stabilized social anxiety toward AI  
+1. Compute Tax
+2. Automation Tax
+3. Sovereign AI Equity
+4. AI Infrastructure Royalties
+5. Public AI Dividend Systems
 
-### Mid-term
-- Narrowed wealth gap  
-- Sustainable compute/electricity usage  
+### VI. Social Stability & Transition Layer
 
-### Long-term
-- AI growth becomes **socially aligned**  
-- National resilience against automation shocks  
+The most important long-term risk may not be AGI itself. It may be middle-class collapse, automation anxiety, social fragmentation, trust erosion, and post-labor instability.
 
----
+Automation Shock Velocity:
 
-# 6. Status
-- Current: **Prototype v1.0**  
-- Module Type: LORI Framework – Social Responsibility Governance  
-- Future expansions: simulation engine, country models, compute market tracker  
+```text
+ASV = WorkersDisplaced / TimeWindow
+```
 
----
+AI Social Stability Index indicators:
 
-# 7. 中文摘要（概要）
-AI 責任稅框架提出未來國家財政五大新來源：算力稅、資本稅、機器人稅、國家級 AI 股權制度、AI 公共建設。目標是確保 AI 所創造的財富不是集中於少數公司，而是 **全民共享、永續回饋**。
+- youth unemployment
+- middle-class erosion
+- AI anxiety
+- wage stagnation
+- compute concentration
+- housing affordability
 
----
+ASSI becomes an AI-era civilization stability indicator.
 
-# License
-See **LICENSE_LORI_AIRTF_v1.0.md**  
+## Repository Philosophy
+
+AI should be framed as a civilization-scale infrastructure transition, not merely software, productivity, or chatbot systems.
+
+AI increasingly resembles:
+
+- electricity
+- oil
+- railroads
+- telecommunications
+- national defense infrastructure
+
+## Key Civilizational Thesis
+
+Future inequality may no longer emerge primarily from labor ownership. It may emerge from compute ownership, infrastructure ownership, platform control, energy access, and AI distribution layers.
+
+This creates a potential future of:
+
+```text
+Compute Feudalism
+```
+
+Where a small number of actors control AI infrastructure while the majority rent access.
+
+AIRTF therefore evolves into a framework for balancing AI acceleration with social continuity.
+
+## Future Expansions
+
+- AI Infrastructure Sovereignty
+- Sovereign Compute Reserve
+- Compute Futures Market
+- National AI Dividend Engine
+- AI Bubble Risk Tracker
+- Automation Shock Simulation Engine
+- AI Fiscal Simulator
+- AI Labor Compression Index
+- AI Capital Concentration Monitor
+
+## Prototype Modules
+
+```text
+src/
+  responsibility_tax.py
+  ai_economic_stack.py
+  value_extraction.py
+  compute_sovereignty.py
+  post_labor_fiscal.py
+  social_stability.py
+examples/
+  sample_country_scenario.json
+tests/
+  test_airtf_v2_models.py
+```
+
+Run tests:
+
+```bash
+python -m unittest discover -s tests
+```
+
+## Final Core Principle
+
+> If AI accelerates, responsibility must accelerate equally.
+
+The faster AI scales, the more civilization-level responsibility mechanisms must evolve alongside it. Otherwise productivity may rise while social cohesion collapses.
+
+The goal of AIRTF is not to stop AI.
+
+The goal is to prevent civilization-scale instability during the transition into the AI era.
+
+## License
+
+See `License_LORI_AIRTF_v1.0.md`.
+
 This is a protected, non-open, non-transferable LORI Semantic Governance License.
