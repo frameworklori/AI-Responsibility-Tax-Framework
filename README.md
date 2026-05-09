@@ -84,6 +84,7 @@ A dollar paid to a working or middle-class household is likely to circulate quic
 - U.S. white-collar compression as a global circulation leading indicator
 - Japan as a circulation fragility warning
 - credit-extended consumption and borrowed future demand
+- physically necessary labor undervaluation
 - falsifiability indicators with provisional thresholds
 - AI trilemma between frontier speed, distributed ownership, and public leadership
 - open source as useful but insufficient anti-feudal infrastructure
@@ -131,6 +132,8 @@ docs/
     Sovereign_AI_Equity.md
     Labor_Transition_Infrastructure.md
     Public_Procurement_Strategy.md
+  transition/
+    Physically_Necessary_Labor_Undervaluation.md
 ```
 
 ## Prototype Modules
