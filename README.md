@@ -1,73 +1,105 @@
-# AI-Responsibility-Tax Framework
+# AI-Era Economic Sovereignty Framework
 
-## Rebuild Direction: Post-Labor Fiscal Architecture for the AI Era
+## AI-Responsibility-Tax Framework v2.1
 
-**Version:** v2.0 Draft Reconstruction  
-**Author:** Founder of the LORI Ethical System  
 **Original Creator:** Lori-framework (beautysungirl@gmail.com)  
 **Repository Creation Date:** 12 September 2025  
-**Last Known Push Timestamp:** 2025-12-20T10:30:56Z
+**Last Known Push Timestamp:** 2025-12-20T10:30:56Z  
+**Rebuild Direction:** AI-Era Economic Sovereignty & Infrastructure Governance Framework
 
-## Core Repositioning
+## Core Thesis
 
-This repository should no longer be positioned only as an "AI Tax Proposal."
+AI does not independently produce civilization-scale value.
 
-The framework has evolved into:
+Real value emerges from:
+
+- AI + industry
+- AI + compute
+- AI + capital
+- AI + energy
+- AI + distribution platforms
+- AI + startup acquisition
+- AI + resource integration
+
+Large AI companies increasingly act as resource integration and absorption engines. They absorb talent, ideas, startups, APIs, compute access, user distribution, and infrastructure dependency.
+
+This may create a new form of market concentration:
 
 ```text
-AI-Era Economic Sovereignty Architecture
+Integration-Layer Monopoly
 ```
 
-and:
+or:
 
 ```text
-Post-Labor Fiscal Architecture
+Compute Feudalism
 ```
 
-The central issue is no longer only AI ethics or AI regulation.
+where most people and companies do not own AI productivity infrastructure, but only rent access from a few dominant infrastructure owners.
 
-The real challenge is:
+## Final Repositioning
 
-> AI productivity is accelerating faster than social, fiscal, and labor systems can adapt.
+This repository should no longer be described only as an AI Responsibility Tax Framework.
 
-This repository studies how nations may redesign taxation, redistribution, compute sovereignty, automation economics, public AI infrastructure, and social stability mechanisms for the AI era.
+It is now:
 
-## Core Civilizational Problem
+```text
+AI-Era Economic Sovereignty Framework
+```
 
-AI is no longer simply replacing repetitive labor. AI is beginning to compress:
+A framework for regulating AI-era value extraction, preventing infrastructure monopolies, redistributing automation gains, and preserving social stability during the transition into a post-labor economy.
 
-- cognitive labor
-- white-collar professions
-- software production
-- legal analysis
-- design
-- administration
-- financial analysis
-- customer service
-- educational content generation
+## Core Principle
 
-At the same time:
+> If AI accelerates, responsibility must accelerate equally.
 
-- middle-class stability weakens
-- labor bargaining power stagnates
-- capital efficiency accelerates
-- compute concentration intensifies
+AI growth should not create a society where productivity rises but social cohesion collapses.
 
-This creates a dangerous imbalance:
+## Repository Structure
 
-| AI Productivity | Social Stability |
-|---|---|
-| Rapidly increasing | Potentially declining |
+```text
+docs/
+  core/
+    AIRTF_Overview.md
+    Core_Principles.md
+    Theory_of_Change.md
+  economic-stack/
+    AI_Five_Layer_Stack.md
+    AI_Layered_Value_Extraction_Model.md
+    Integration_Layer_Monopoly.md
+    Compute_Feudalism.md
+  taxation/
+    Responsibility_Tax_Model.md
+    Compute_Concentration_Levy.md
+    Automation_Tax.md
+    Sovereign_AI_Equity.md
+    AI_Infrastructure_Royalties.md
+  governance/
+    Structural_Separation_Model.md
+    Platform_Interoperability.md
+    Acquisition_Velocity_Monitoring.md
+    Public_AI_Infrastructure.md
+    Open_Source_Anti_Feudalism.md
+  transition/
+    Labor_Transition_Infrastructure.md
+    Automation_Shock_Velocity.md
+    AI_Social_Stability_Index.md
+    Demand_Sustainability_Layer.md
+  simulation/
+    Country_Model_Template.md
+    Taiwan_Case_Study.md
+    Fiscal_Redistribution_Model.md
+    Compute_Dependency_Matrix.md
+  policy/
+    Implementation_Pathways.md
+    Multilateral_Coordination.md
+    Regulatory_Capture_Risks.md
+    State_Capacity_Assessment.md
+```
 
-The issue is not merely inequality. The issue is the **velocity of inequality expansion**.
+## Key Models
 
-## Six Research Pillars
-
-### I. AI Responsibility Taxation Layer
-
-The original AIRTF structure remains.
-
-Core equation:
+### Responsibility Tax
 
 ```text
 RT = alpha * Profit
@@ -75,142 +107,23 @@ RT = alpha * Profit
    + gamma * EnergyConsumption
 ```
 
-This converts AI externalities into measurable fiscal responsibility.
+Unemployment impact is difficult to attribute directly, so this framework adds an AI-Linked Displacement Score based on AI adoption, workforce compression, revenue per employee growth, human-to-AI replacement ratio, AI-generated output ratio, and department-level automation evidence.
 
-Objectives:
-
-- internalize AI social costs
-- stabilize automation transition
-- prevent hyper-concentration of wealth
-
-### II. AI Five-Layer Economic Stack
-
-AI should be analyzed as civilization-scale infrastructure:
-
-1. **Energy Infrastructure**: power grids, cooling systems, nuclear/renewable energy, data center land and water systems.
-2. **Compute & Semiconductor Layer**: GPUs, TPUs, inference clusters, chip sovereignty, compute providers.
-3. **Foundation Model Layer**: frontier models, national models, open-source models, AI alignment systems.
-4. **Distribution & Platform Layer**: AI operating systems, search layers, AI browsers, agent ecosystems, cloud platforms.
-5. **Application & Agent Layer**: AI SaaS, agents, enterprise automation, local productivity systems.
-
-### III. AI Layered Value Extraction Model (ALVEM)
-
-Different AI layers extract value differently.
-
-ALVEM evaluates:
-
-- monopoly intensity
-- social externalities
-- infrastructure dependence
-- profit density
-- labor replacement scale
-
-Example matrix:
-
-| Layer | Profit Density | Monopoly Risk | Social Impact |
-|---|---|---|---|
-| Energy | High | High | National |
-| Compute | Extreme | Extreme | Global |
-| Models | High | Medium | Global |
-| Platforms | Extreme | Extreme | Civilization-scale |
-| Applications | Variable | Low | Local |
-
-### IV. Compute Sovereignty Architecture
-
-Modern AI economies increasingly depend on sovereign compute, energy independence, and national inference infrastructure.
-
-Future modules:
-
-- Sovereign Compute Reserve
-- National AI Cloud
-- Compute Concentration Index (CCI)
-- Compute Geopolitics Tracker
-
-Example equation:
+### Compute Concentration Index
 
 ```text
 CCI = Top5ComputeProviders / TotalNationalComputeCapacity
 ```
 
-Core idea:
+CCI supports compute concentration levies, public compute reserves, open-source AI infrastructure, and anti-feudal compute policy.
 
-> Compute becomes a strategic public resource.
-
-### V. Post-Labor Fiscal Architecture
-
-The current global tax system is still labor-centric. AI shifts value creation toward compute, infrastructure, automation, and capital ownership.
-
-This creates a future mismatch:
-
-- GDP may rise
-- taxable human labor may shrink
-
-New fiscal pillars:
-
-1. Compute Tax
-2. Automation Tax
-3. Sovereign AI Equity
-4. AI Infrastructure Royalties
-5. Public AI Dividend Systems
-
-### VI. Social Stability & Transition Layer
-
-The most important long-term risk may not be AGI itself. It may be middle-class collapse, automation anxiety, social fragmentation, trust erosion, and post-labor instability.
-
-Automation Shock Velocity:
+### Automation Shock Velocity
 
 ```text
 ASV = WorkersDisplaced / TimeWindow
 ```
 
-AI Social Stability Index indicators:
-
-- youth unemployment
-- middle-class erosion
-- AI anxiety
-- wage stagnation
-- compute concentration
-- housing affordability
-
-ASSI becomes an AI-era civilization stability indicator.
-
-## Repository Philosophy
-
-AI should be framed as a civilization-scale infrastructure transition, not merely software, productivity, or chatbot systems.
-
-AI increasingly resembles:
-
-- electricity
-- oil
-- railroads
-- telecommunications
-- national defense infrastructure
-
-## Key Civilizational Thesis
-
-Future inequality may no longer emerge primarily from labor ownership. It may emerge from compute ownership, infrastructure ownership, platform control, energy access, and AI distribution layers.
-
-This creates a potential future of:
-
-```text
-Compute Feudalism
-```
-
-Where a small number of actors control AI infrastructure while the majority rent access.
-
-AIRTF therefore evolves into a framework for balancing AI acceleration with social continuity.
-
-## Future Expansions
-
-- AI Infrastructure Sovereignty
-- Sovereign Compute Reserve
-- Compute Futures Market
-- National AI Dividend Engine
-- AI Bubble Risk Tracker
-- Automation Shock Simulation Engine
-- AI Fiscal Simulator
-- AI Labor Compression Index
-- AI Capital Concentration Monitor
+Fast labor displacement can create larger social instability than slower transitions with the same total displacement.
 
 ## Prototype Modules
 
@@ -222,10 +135,8 @@ src/
   compute_sovereignty.py
   post_labor_fiscal.py
   social_stability.py
-examples/
-  sample_country_scenario.json
-tests/
-  test_airtf_v2_models.py
+  displacement_score.py
+  integration_monopoly.py
 ```
 
 Run tests:
@@ -234,18 +145,12 @@ Run tests:
 python -m unittest discover -s tests
 ```
 
-## Final Core Principle
+## Boundary
 
-> If AI accelerates, responsibility must accelerate equally.
+AIRTF is a research and policy architecture prototype. It is not a final tax code, investment recommendation, or legal instrument.
 
-The faster AI scales, the more civilization-level responsibility mechanisms must evolve alongside it. Otherwise productivity may rise while social cohesion collapses.
-
-The goal of AIRTF is not to stop AI.
-
-The goal is to prevent civilization-scale instability during the transition into the AI era.
+Its purpose is to help societies reason about how AI-era value is extracted, who controls infrastructure, how automation gains are redistributed, and how public alternatives can be built before private dependency becomes irreversible.
 
 ## License
 
 See `License_LORI_AIRTF_v1.0.md`.
-
-This is a protected, non-open, non-transferable LORI Semantic Governance License.

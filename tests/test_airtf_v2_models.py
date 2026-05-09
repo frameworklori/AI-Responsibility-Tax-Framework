@@ -1,6 +1,11 @@
 import unittest
 
 from src.compute_sovereignty import compute_concentration_index, cci_risk_level
+from src.displacement_score import ai_linked_displacement_score
+from src.integration_monopoly import (
+    integration_layer_monopoly_score,
+    monopoly_risk_level,
+)
 from src.post_labor_fiscal import allocate_social_dividend, public_ai_dividend_pool
 from src.responsibility_tax import responsibility_tax
 from src.social_stability import (
@@ -59,6 +64,27 @@ class AIRTFV2ModelTests(unittest.TestCase):
             housing_stress=0.5,
         )
         self.assertEqual(stability_level(assi), "moderate_transition_risk")
+
+    def test_ai_linked_displacement_score(self):
+        score = ai_linked_displacement_score(
+            ai_adoption_rate=0.8,
+            workforce_compression_speed=0.7,
+            revenue_per_employee_growth=0.65,
+            human_to_ai_replacement_ratio=0.6,
+            ai_generated_output_ratio=0.75,
+            department_automation_evidence=0.8,
+        )
+        self.assertGreater(score, 0.7)
+
+    def test_integration_layer_monopoly_score(self):
+        score = integration_layer_monopoly_score(
+            layers_controlled=4,
+            acquisition_velocity=0.8,
+            api_dependency=0.7,
+            distribution_control=0.85,
+            compute_dependency=0.9,
+        )
+        self.assertEqual(monopoly_risk_level(score), "critical_integration_monopoly_risk")
 
 
 if __name__ == "__main__":
