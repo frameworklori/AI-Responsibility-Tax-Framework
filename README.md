@@ -35,6 +35,17 @@ The broad middle class, lower-middle class, and working class are the real consu
 
 Therefore, wealth concentration is not only a fairness problem. It is a circulation problem.
 
+## Current Macroeconomic Signal Layer
+
+AIRTF now includes a current-signal layer that maps AI-driven productivity concentration onto observable U.S. macroeconomic stress patterns, including layoffs, white-collar compression, consumer liquidity, asset-market divergence, government deficit buffering, energy shocks, and trade-deficit demand dependency.
+
+- [US_Liquidity_Stress_2026.md](docs/current_signals/US_Liquidity_Stress_2026.md)
+- [AI_Layoff_vs_Consumption.md](docs/current_signals/AI_Layoff_vs_Consumption.md)
+- [Energy_Shock_and_Consumer_Fragility.md](docs/current_signals/Energy_Shock_and_Consumer_Fragility.md)
+- [Asset_Market_vs_Real_Economy.md](docs/current_signals/Asset_Market_vs_Real_Economy.md)
+- [US_Trade_Deficit_and_Demand_Dependency.md](docs/current_signals/US_Trade_Deficit_and_Demand_Dependency.md)
+- [Government_Deficit_As_Liquidity_Buffer.md](docs/current_signals/Government_Deficit_As_Liquidity_Buffer.md)
+
 ## Central Transition Risk
 
 ```text

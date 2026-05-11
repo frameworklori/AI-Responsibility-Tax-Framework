@@ -13,3 +13,11 @@ How can societies capture enough AI-era value to preserve democratic capacity, p
 ## Main Risk
 
 The main risk is not only that AI replaces tasks. The deeper risk is that AI productivity infrastructure becomes concentrated upstream while most people and firms rent access downstream.
+
+## Why Current Signals Matter
+
+AIRTF must track real-world indicators instead of remaining purely theoretical. The framework is strongest when it links AI-era productivity concentration to observable stress in household liquidity, wage circulation, market structure, and public finance.
+
+Relevant current signals include layoffs, consumer debt, real wages, money velocity, stock-market concentration, government deficit spending, energy-price shocks, trade deficits, and household liquidity stress.
+
+These indicators help distinguish productive AI growth from circulation collapse. The goal is not to oppose AI, but to detect when productivity gains are concentrating faster than purchasing power can move through households, firms, and public systems.
