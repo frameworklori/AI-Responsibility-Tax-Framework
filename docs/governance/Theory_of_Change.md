@@ -61,3 +61,15 @@ These actors help determine whether AI-era economies preserve human agency in di
 5. Create labor-transition and purchasing-power stabilization funds.
 6. Use public procurement to support open and interoperable systems.
 7. Develop multilateral coordination once domestic indicators are validated.
+
+## Reality-Based Governance Sequencing
+
+Policy should respond differently depending on which pathway becomes more visible:
+
+- If layoffs exceed new job formation: labor transition and wage support become urgent.
+- If asset markets rise while household liquidity weakens: circulation repair and tax tools become more relevant.
+- If housing access weakens: ownership and rental policy become central.
+- If access infrastructure concentrates: interoperability, transparency, and antitrust become central.
+- If AI deflation broadly lowers core costs: tax policy may need recalibration rather than expansion.
+
+This sequencing does not remove prior AIRTF policy ideas. Responsibility Tax, Compute Levy, Sovereign AI Equity, labor transition infrastructure, public AI infrastructure, and access governance remain active hypotheses. The diagnostic task is to match policy emphasis to the pathway that current evidence increasingly supports.

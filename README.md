@@ -60,6 +60,26 @@ This layer argues that AI may solve the production problem without solving the d
 - [Allocation_vs_Market_Discovery.md](docs/agency_layer/Allocation_vs_Market_Discovery.md)
 - [Infrastructure_Feudalism_and_Agency_Risk.md](docs/agency_layer/Infrastructure_Feudalism_and_Agency_Risk.md)
 
+## Current Reality Mapping and Future Pathways
+
+AIRTF now includes a current mapping layer that connects observable U.S. economic signals to possible AI-era transition pathways.
+
+This layer does not claim that any single outcome is inevitable. It tracks whether current real-world signals, including white-collar compression, AI-driven productivity growth, stock-market strength, household liquidity stress, housing affordability pressure, rental-market shifts, government deficit buffering, access infrastructure concentration, and undervalued physical labor, begin to align with AIRTF's risk channels.
+
+AIRTF is not a prophecy. It is a civilization transition diagnostic framework.
+
+The question is not whether AI can increase supply. The question is whether demand, purchasing power, legal accountability, and human participation can adapt fast enough.
+
+- [Reality_Signal_Map.md](docs/current_mapping/Reality_Signal_Map.md)
+- [AI_Layoff_vs_New_Job_Creation.md](docs/current_mapping/AI_Layoff_vs_New_Job_Creation.md)
+- [Stock_Market_vs_Household_Liquidity.md](docs/current_mapping/Stock_Market_vs_Household_Liquidity.md)
+- [Housing_Rent_and_Middle_Class_Stress.md](docs/current_mapping/Housing_Rent_and_Middle_Class_Stress.md)
+- [AI_Supply_Expansion_vs_Demand_Formation.md](docs/current_mapping/AI_Supply_Expansion_vs_Demand_Formation.md)
+- [UBI_Survival_Not_Demand_Solution.md](docs/current_mapping/UBI_Survival_Not_Demand_Solution.md)
+- [Access_Infrastructure_Reality_Map.md](docs/current_mapping/Access_Infrastructure_Reality_Map.md)
+- [Physically_Necessary_Labor_and_Wage_Floor.md](docs/current_mapping/Physically_Necessary_Labor_and_Wage_Floor.md)
+- [Future_Pathway_Matrix.md](docs/current_mapping/Future_Pathway_Matrix.md)
+
 ## Central Transition Risk
 
 ```text

@@ -69,3 +69,17 @@ AIRTF governance must therefore include:
 
 The goal is pro-human agency, pro-access sovereignty, pro-demand discovery, anti-infrastructure feudalism, anti-platform dependency, and anti-state or corporate allocation monopoly.
 
+## Observable Access Channels
+
+Agency concerns must be tied to real-world infrastructure:
+
+- AI assistants
+- search
+- recommendation systems
+- cloud/compute access
+- payment rails
+- digital identity
+- credit scoring
+- app-store access
+
+This layer should not expand into pure philosophy. It should remain tied to observable access channels, measurable concentration, contestability, interoperability, transparency, and the practical ability of people and firms to participate without dependency.

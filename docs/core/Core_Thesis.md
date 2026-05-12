@@ -4,6 +4,10 @@ AI does not automatically destroy the economy. The deeper risk is that productiv
 
 Modern consumer economies survive not only because goods are produced. They survive because money keeps circulating among broad consumer groups.
 
+AIRTF does not claim that AI will inevitably produce civilization liquidity collapse.
+
+It claims that current economic theory and legal regulation may be insufficient if AI changes production, ownership, labor demand, demand formation, access infrastructure, and responsibility faster than institutions can adapt.
+
 ## Central Mechanism
 
 ```text

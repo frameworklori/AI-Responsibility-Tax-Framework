@@ -22,6 +22,18 @@ Relevant current signals include layoffs, consumer debt, real wages, money veloc
 
 These indicators help distinguish productive AI growth from circulation collapse. The goal is not to oppose AI, but to detect when productivity gains are concentrating faster than purchasing power can move through households, firms, and public systems.
 
+## Reality Mapping Before Philosophy
+
+AIRTF prioritizes real-world signal mapping before philosophical reflection.
+
+The framework should:
+
+1. observe current economic signals,
+2. map them to structural risk channels,
+3. compare multiple future pathways,
+4. define what would validate or falsify each risk,
+5. leave philosophical reflection as open questions rather than primary claims.
+
 ## From Liquidity to Agency
 
 AIRTF originally focused on productivity, ownership, purchasing power, and circulation.
