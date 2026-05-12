@@ -36,6 +36,22 @@ AIRTF must define actors, incentives, coalitions, leverage points, and sequencin
 - labor transition funds
 - credit-risk monitoring tied to AI displacement
 
+## Access Infrastructure Governors
+
+AIRTF governance must include access-layer regulation, not only taxation.
+
+Access Infrastructure Governors include:
+
+- public institutions
+- platform regulators
+- open protocol communities
+- digital identity authorities
+- payment infrastructure regulators
+- AI assistant governance bodies
+- search and recommendation transparency auditors
+
+These actors help determine whether AI-era economies preserve human agency in discovery, visibility, identity, payment, assistant-mediated choice, and participation. Without access-layer governance, tax policy may redistribute value while leaving the practical gateways of economic life concentrated.
+
 ## Sequencing
 
 1. Build measurement layer.

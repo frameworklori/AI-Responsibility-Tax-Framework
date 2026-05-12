@@ -42,3 +42,13 @@ The current-signal layer connects Civilization Liquidity Risk to observable U.S.
 - [Asset Market vs. Real Economy](../current_signals/Asset_Market_vs_Real_Economy.md)
 - [U.S. Trade Deficit and Demand Dependency](../current_signals/US_Trade_Deficit_and_Demand_Dependency.md)
 - [Government Deficit as Liquidity Buffer](../current_signals/Government_Deficit_As_Liquidity_Buffer.md)
+
+## Liquidity Is Not Enough
+
+Restoring purchasing power through taxation, dividends, or subsidies may stabilize demand.
+
+But it does not automatically preserve economic agency.
+
+A society can have liquidity without freedom of access. A society can have consumption without participation. A society can have AI abundance while humans lose the ability to shape demand.
+
+AIRTF therefore treats liquidity stabilization as necessary but incomplete. Civilization stability also depends on whether humans can discover preferences, express demand, access economic infrastructure, and participate in value creation without dependency on platform or state allocation monopoly.

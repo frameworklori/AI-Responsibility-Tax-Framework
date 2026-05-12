@@ -46,6 +46,20 @@ AIRTF now includes a current-signal layer that maps AI-driven productivity conce
 - [US_Trade_Deficit_and_Demand_Dependency.md](docs/current_signals/US_Trade_Deficit_and_Demand_Dependency.md)
 - [Government_Deficit_As_Liquidity_Buffer.md](docs/current_signals/Government_Deficit_As_Liquidity_Buffer.md)
 
+## Access Infrastructure and Economic Agency Layer
+
+AIRTF now includes an agency layer examining whether AI-era economies can preserve human economic agency when access, preference formation, discovery, and participation are increasingly mediated by AI systems.
+
+This layer argues that AI may solve the production problem without solving the demand formation problem. Even if goods become cheaper, civilization still requires mechanisms through which humans can form preferences, express demand, participate in value creation, and retain access rights without becoming dependent on state or platform allocation systems.
+
+- [Agency_Layer_Overview.md](docs/agency_layer/Agency_Layer_Overview.md)
+- [Demand_Formation_Problem.md](docs/agency_layer/Demand_Formation_Problem.md)
+- [Access_Infrastructure_Economy.md](docs/agency_layer/Access_Infrastructure_Economy.md)
+- [Preference_Formation_and_AI_Allocation.md](docs/agency_layer/Preference_Formation_and_AI_Allocation.md)
+- [Post_Wage_Civilization_Risk.md](docs/agency_layer/Post_Wage_Civilization_Risk.md)
+- [Allocation_vs_Market_Discovery.md](docs/agency_layer/Allocation_vs_Market_Discovery.md)
+- [Infrastructure_Feudalism_and_Agency_Risk.md](docs/agency_layer/Infrastructure_Feudalism_and_Agency_Risk.md)
+
 ## Central Transition Risk
 
 ```text

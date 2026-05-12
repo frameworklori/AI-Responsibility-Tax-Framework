@@ -21,3 +21,18 @@ AIRTF must track real-world indicators instead of remaining purely theoretical. 
 Relevant current signals include layoffs, consumer debt, real wages, money velocity, stock-market concentration, government deficit spending, energy-price shocks, trade deficits, and household liquidity stress.
 
 These indicators help distinguish productive AI growth from circulation collapse. The goal is not to oppose AI, but to detect when productivity gains are concentrating faster than purchasing power can move through households, firms, and public systems.
+
+## From Liquidity to Agency
+
+AIRTF originally focused on productivity, ownership, purchasing power, and circulation.
+
+The AIRTF x Claude dialogue revealed a deeper layer:
+
+- even if AI reduces costs
+- even if subsidies preserve survival
+- even if wage-centered capitalism changes
+- humans may still lose agency if access infrastructure becomes concentrated
+
+Therefore AIRTF must examine not only who receives productivity gains, but who controls the systems through which people discover, choose, participate, and form demand.
+
+This extension does not make AIRTF anti-AI. It makes the framework more explicitly pro-human agency, pro-access sovereignty, and pro-demand discovery.
