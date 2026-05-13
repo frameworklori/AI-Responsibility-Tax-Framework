@@ -80,6 +80,28 @@ The question is not whether AI can increase supply. The question is whether dema
 - [Physically_Necessary_Labor_and_Wage_Floor.md](docs/current_mapping/Physically_Necessary_Labor_and_Wage_Floor.md)
 - [Future_Pathway_Matrix.md](docs/current_mapping/Future_Pathway_Matrix.md)
 
+## Real-World Constraints and Structural Risks
+
+AIRTF and AI-IOPM do not assume that AI infrastructure participation automatically guarantees prosperity, equality, or stable democracy.
+
+The framework also studies:
+
+- infrastructure inflation risk,
+- financial intermediary reconcentration,
+- generational ownership barriers,
+- geopolitical competition,
+- infrastructure obsolescence,
+- timing mismatch between AI disruption and institutional adaptation,
+- and the risk that symbolic ownership may emerge without meaningful governance participation.
+
+The goal is not utopian prediction.
+The goal is reality-based transition analysis and institutional design under AI-era economic transformation.
+
+AI-IOPM is not designed to eliminate markets.
+It is designed to reduce the probability that AI-era infrastructure productivity becomes permanently disconnected from broad human participation.
+
+- [AI-IOPM Policy Module](docs/policy/AI_IOPM/README.md)
+
 ## Central Transition Risk
 
 ```text
